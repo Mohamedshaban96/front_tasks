@@ -2,6 +2,7 @@
 
 
 Create a basic webpage structure with block-level elements such as ``` <div> ```.
+
 Use ```<p>``` elements to structure paragraphs of text within the main content area by using <main> tag search for it and use it.
 Insert lists (<ul>) with list items (<li>) to organize content.
 ....................
