@@ -10,8 +10,8 @@ Upon submission, the form should validate the input data and display appropriate
 
 ## Task Requirements:
 
-The form should include fields for
-1- email address.
+The form should include fields for:
+1- email address.\
 2- username.
 3- favorite option (using a select input),
 4- A checkbox for agreeing to terms and conditions.
