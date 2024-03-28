@@ -16,6 +16,6 @@ The form should include fields for:\
 3- favorite option (using a select input).\
 4- A checkbox for agreeing to terms and conditions.\
 ** Implement client-side validation using HTML5 attributes where appropriate (e.g., required attribute for mandatory fields, type attribute for email validation).\
-...........\
+...........
 
 #### Feel free to customize the task or add more requirements as needed. Once you've completed the task, you can share your code or ask for further guidance if needed!
