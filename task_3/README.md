@@ -8,7 +8,7 @@ selecting their favorite option,
 and agreeing to the terms and conditions.
 Upon submission, the form should validate the input data and display appropriate error messages if any fields are left empty or if the email format is invalid. If all fields are correctly filled, 
 
-Task Requirements:
+## Task Requirements:
 
 The form should include fields for
 1- email address,
